@@ -17,12 +17,12 @@ Each program is a hands-on implementation of OOP concepts. The source code is or
 2. Navigate to the program of interest:
 
     ```bash
-    cd java-oops-lab/Program1
+    cd Java_lab-jssstu/election.java
     ```
 
 3. Compile and run the Java program:
 
     ```bash
-    javac Program1.java
-    java Program1
+    javac election.java
+    java election
     ```
